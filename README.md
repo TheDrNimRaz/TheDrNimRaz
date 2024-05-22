@@ -1,4 +1,4 @@
-# Dr Yarden Galili's GitHub
+# Dr Nim Raz's GitHub
 
 ## Welcome to My GitHub Profile
 
