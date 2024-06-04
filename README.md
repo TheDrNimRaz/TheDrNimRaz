@@ -2,14 +2,14 @@
 
 ## Welcome to My GitHub Profile
 
-Hello! My name is **Nim Raz**, and I hold a Ph.D. in Electrical Engineering. My academic journey began with a Bachelor of Arts in Physics from the prestigious Talpiot program. Throughout my career, I have been deeply involved in numerous projects, particularly in the fields of communications and electronics.
+Hello! My name is **Nim Raz**, and I hold a Ph.D. in Electrical Engineering. My academic journey began with a Bachelor of Arts in Physics from the prestigious Talpiot program. Throughout my career, I have been deeply involved in numerous projects, particularly in communications and electronics.
 
-In recent years, my focus has shifted towards the communication of space probes and satellites. This GitHub page serves as a repository for some of the projects I've contributed to and showcases my expertise in these areas.
+In recent years, my focus has shifted towards the communication of space probes and satellites. This GitHub page is a repository for some of the projects I've contributed to and showcases my expertise in these areas.
 
 ## Areas of Expertise
 
-- **Electrical Engineering**: Extensive knowledge and hands-on experience in designing and implementing electronic systems.
-- **Physics**: Strong foundation in physical principles, aiding in the development of innovative solutions.
+- **Electrical Engineering**: Extensive knowledge and hands-on experience designing and implementing electronic systems.
+- **Physics**: Strong foundation in physical principles, aiding in developing innovative solutions.
 - **Communications**: Specializing in the communication systems of both terrestrial and spaceborne platforms.
 - **Space Probes and Satellites**: Recent projects have concentrated on enhancing the communication capabilities of space exploration instruments.
 
@@ -37,7 +37,7 @@ Thank you for visiting my GitHub page. I hope you find the projects here informa
 
 ---
 
-Yarden Galili, Ph.D.  
+Dr Nim Raz, Ph.D.  
 Electrical Engineer and Physicist  
-[Email](mailto:DrGalili@shfifon.com
+[Email](mailto:DrNimRaz@shfifon.com)
 
